@@ -9,10 +9,8 @@
 <p align="left"> <a href="https://twitter.com/albin_m_v_" target="blank"><img src="https://img.shields.io/twitter/follow/albin_m_v_?logo=twitter&style=for-the-badge" alt="albin_m_v_" /></a> </p>
 
 - 🌱 I’m currently learning **machine learning , Data science**
-
 - 📫 How to reach me **albinmv@gmail.com**
-
-<h3 align="left">Resume:</h3> <p align="left">You can find my resume in PDF format <a href="https://example.com/resume.pdf">here</a>
+- You can find my resume <a href="https://drive.google.com/file/d/1Uidqft912_wCebLEmF7sy0RYf3WXroa2/view?usp=sharing">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
