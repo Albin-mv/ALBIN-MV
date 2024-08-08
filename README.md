@@ -1,6 +1,9 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)
 <h1 align="center">ALBIN MV</h1>
 <h3 align="center">Passionate in Data Science</h3>
+<h3 align="left">Professional Summary:</h3> 
+<h5 align="left">As a machine learning and data science enthusiast, I'm passionate about leveraging data to drive insights and drive business decisions. With a strong foundation in programming languages such as Python, I'm excited to apply my skills to real-world problems and collaborate with like-minded individuals to drive innovation.</h5>
+
 <img align="right" alt="Coding" width="400" src="https://www.sardonyx.in/themes/images/bigdata-solution/sardonyx-bigdata-rowimg5.gif">
 
 <p align="left"> <a href="https://twitter.com/albin_m_v_" target="blank"><img src="https://img.shields.io/twitter/follow/albin_m_v_?logo=twitter&style=for-the-badge" alt="albin_m_v_" /></a> </p>
@@ -8,6 +11,8 @@
 - 🌱 I’m currently learning **machine learning , Data science**
 
 - 📫 How to reach me **albinmv@gmail.com**
+
+<h3 align="left">Resume:</h3> <p align="left">You can find my resume in PDF format <a href="https://example.com/resume.pdf">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
