@@ -1,8 +1,8 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)
 <h1 align="center">ALBIN MV</h1>
-<h3 align="center">Passionate in Data Science</h3>
+<h3 align="center">Passionate in data analytics</h3>
 <h3 align="left">Professional Summary:</h3> 
-<h5 align="left">As a machine learning and data science enthusiast, I'm passionate about leveraging data to drive insights and drive business decisions. With a strong foundation in programming languages such as Python, I'm excited to apply my skills to real-world problems and collaborate with like-minded individuals to drive innovation.</h5>
+<h5 align="left">As a machine learning and data analytics enthusiast, I'm passionate about leveraging data to drive insights and drive business decisions. With a strong foundation in programming languages such as Python, I'm excited to apply my skills to real-world problems and collaborate with like-minded individuals to drive innovation.</h5>
 
 <img align="right" alt="Coding" width="400" src="https://www.sardonyx.in/themes/images/bigdata-solution/sardonyx-bigdata-rowimg5.gif">
 
