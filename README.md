@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif" alt="MasterHead" />
+<div align="center">   
+    <img src="https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif" alt="MasterHead"  />
 </div>
+
+
 <h1 align="center">ALBIN MV</h1>
 <h3 align="center">Passionate in data analytics</h3>
 <h3 align="left">Professional Summary:</h3> 
