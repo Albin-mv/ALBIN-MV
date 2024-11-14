@@ -1,16 +1,18 @@
-![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)
+<div align="center">
+  <img src="https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif" alt="MasterHead" />
+</div>
 <h1 align="center">ALBIN MV</h1>
 <h3 align="center">Passionate in data analytics</h3>
 <h3 align="left">Professional Summary:</h3> 
 <h5 align="left">As a machine learning and data analytics enthusiast, I'm passionate about leveraging data to drive insights and drive business decisions. With a strong foundation in programming languages such as Python, I'm excited to apply my skills to real-world problems and collaborate with like-minded individuals to drive innovation.</h5>
 
-<img align="right" alt="Coding" width="400" src="https://www.sardonyx.in/themes/images/bigdata-solution/sardonyx-bigdata-rowimg5.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 <p align="left"> <a href="https://twitter.com/albin_m_v_" target="blank"><img src="https://img.shields.io/twitter/follow/albin_m_v_?logo=twitter&style=for-the-badge" alt="albin_m_v_" /></a> </p>
 
 - 🌱 I’m currently learning **machine learning , Data science**
 - 📫 How to reach me **albinmv15@gmail.com**
-- 📄 find my <a href="https://drive.google.com/file/d/1YdR4QE0Kh5bkgeGKw2KcaEO4eZNDmqNR/view?usp=sharing">resume here 😊</a>
+- 📄 find my <a href="https://drive.google.com/file/d/1YdR4QE0Kh5bkgeGKw2KcaEO4eZNDmqNR/view?usp=sharing">Resume here 😊</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
