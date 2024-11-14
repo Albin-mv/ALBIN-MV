@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **machine learning , Data science**
 - 📫 How to reach me **albinmv15@gmail.com**
-- 📄 find my <a href="https://drive.google.com/file/d/1Uidqft912_wCebLEmF7sy0RYf3WXroa2/view?usp=sharing">resume here 😊</a>
+- 📄 find my <a href="https://drive.google.com/file/d/1YdR4QE0Kh5bkgeGKw2KcaEO4eZNDmqNR/view?usp=sharing">resume here 😊</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
