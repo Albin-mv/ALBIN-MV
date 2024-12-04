@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/albin_m_v_" target="blank"><img src="https://img.shields.io/twitter/follow/albin_m_v_?logo=twitter&style=for-the-badge" alt="albin_m_v_" /></a> </p>
 
-- 🌱 I’m currently learning **machine learning , Data science**
+- 🌱 I have working as a **data coordinator** at **Fintalk Solutions(Bahrain)**
 - 📫 How to reach me **albinmv15@gmail.com**
 - 📄 find my <a href="https://drive.google.com/file/d/1YdR4QE0Kh5bkgeGKw2KcaEO4eZNDmqNR/view?usp=sharing">Resume here 😊</a>
 
