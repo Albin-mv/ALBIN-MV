@@ -1,5 +1,5 @@
-<div align="center">   
-    <img src="https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif" alt="MasterHead"  />
+<div align="center">
+    <img alt= width="400" src="https://raw.githubusercontent.com/albin-mv/albin-mv/main/cozy_code_subtle_motion.gif">
 </div>
 
 </p><p align="center"> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=3000&pause=1000&color=D5B477&center=true&vCenter=true&width=700&lines=Connecting+Business+with+Technology;Exploring+Innovation+%26+Emerging+Tech;Turning+Ideas+into+Opportunities" alt="Connecting business with technology" /> </p> <p align="center"> <a href="mailto:albinmv15@gmail.com?subject=Collaboration%20Opportunity"><img src="https://img.shields.io/badge/Start_a_Conversation-D5B477?style=for-the-badge&logo=gmail&logoColor=0B1220" alt="Email me" /></a> <a href="https://www.linkedin.com/in/albinmv"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /> </p> <br/>
@@ -33,5 +33,6 @@ Founder, business leader or technology enthusiast with an idea? I'd like to hear
 
 </div>
 <div align="center">   
-    <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
+<div align="center">   
+    <img src="https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif" alt="MasterHead"  />
 </div>
