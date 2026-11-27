@@ -2,41 +2,36 @@
     <img src="https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif" alt="MasterHead"  />
 </div>
 
+</p><p align="center"> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=3000&pause=1000&color=D5B477&center=true&vCenter=true&width=700&lines=Connecting+Business+with+Technology;Exploring+Innovation+%26+Emerging+Tech;Turning+Ideas+into+Opportunities" alt="Connecting business with technology" /> </p> <p align="center"> <a href="mailto:albinmv15@gmail.com?subject=Collaboration%20Opportunity"><img src="https://img.shields.io/badge/Start_a_Conversation-D5B477?style=for-the-badge&logo=gmail&logoColor=0B1220" alt="Email me" /></a> <a href="https://www.linkedin.com/in/albinmv"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /> </p> <br/>
+👋 Hello, I'm Albin
 
-<h1 align="center">ALBIN MV</h1>
+I'm a Business Development professional with a strong interest in technology, entrepreneurship and innovation. I like understanding business challenges and finding where technology can create real value.
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
+💡 The real value of technology lies not just in what it can do, but in how effectively it solves business problems.
 
-<p align="left"> <a href="https://twitter.com/albin_m_v_" target="blank"><img src="https://img.shields.io/twitter/follow/albin_m_v_?logo=twitter&style=for-the-badge" alt="albin_m_v_" /></a> </p>
+<br/>
+🤝 Where We Can Collaborate
+<table> <tr> <td width="50%" align="center" valign="top"> <h3>🌐 Strategic Partnerships</h3> <p>Relationship building, networking and alliances that benefit both sides</p> <code>Partnerships</code> <code>Networking</code> </td> <td width="50%" align="center" valign="top"> <h3>📈 Business Growth</h3> <p>Exploring market opportunities, business models and growth strategy</p> <code>Markets</code> <code>Strategy</code> </td> </tr> <tr> <td width="50%" align="center" valign="top"> <h3>🤖 AI &amp; Automation</h3> <p>Practical AI applications, digital transformation and operational efficiency</p> <code>AI</code> <code>Automation</code> </td> <td width="50%" align="center" valign="top"> <h3>📊 Data &amp; Insights</h3> <p>Business intelligence and analytics that support better decisions</p> <code>Analytics</code> <code>BI</code> </td> </tr> </table> <br/>
+🧭 How I Approach Opportunities
+🔍 Understandthe challenge
+💡 Identify theopportunity
+⚙️ Match thetechnology
+🤝 Connectthe people
+🚀 Creategrowth
+<br/>
+🧰 Technology Toolkit
+<table align="center"> <tr> <td align="center"><b>Development</b></td> <td><img src="https://skillicons.dev/icons?i=python,php,mysql,html,css,js" alt="Python, PHP, MySQL, HTML, CSS, JavaScript" /></td> </tr> <tr> <td align="center"><b>AI &amp; ML</b></td> <td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="TensorFlow, PyTorch, scikit-learn" /></td> </tr> <tr> <td align="center"><b>Data &amp; Analytics</b></td> <td> <img src="https://img.shields.io/badge/Power_BI-F1C811?style=for-the-badge" alt="Power BI" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" alt="Excel" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> </td> </tr> </table> <br/>
+📬 Let's Build Something Meaningful
+<div align="center">
+Founder, business leader or technology enthusiast with an idea? I'd like to hear it.
 
-- 🌱 I have working as a **data coordinator** at **Fintalk Solutions(Bahrain)**
-- 📫 How to reach me **albinmv15@gmail.com**
-- 📄 find my <a href="https://drive.google.com/file/d/1YdR4QE0Kh5bkgeGKw2KcaEO4eZNDmqNR/view?usp=sharing">Resume here 😊</a>
+<a href="mailto:albinmv15@gmail.com?subject=Collaboration%20Opportunity"><img src="https://img.shields.io/badge/albinmv15%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="albinmv15@gmail.com" /></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/albin-mv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albin-mv" height="30" width="40" /></a><a href="https://twitter.com/albin_m_v_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="albin_m_v_" height="30" width="40" /></a>
-</p>
+<br/><br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"></a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>  
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/></a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/></a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<i>Exploring Technology. Understanding Business. Connecting Opportunities.</i>
 
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=albin-mv&show_icons=true&locale=en&layout=compact" alt="albin-mv" /></p>
+</div>
+<div align="center">   
+    <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
+</div>
