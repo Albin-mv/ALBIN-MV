@@ -4,9 +4,6 @@
 
 
 <h1 align="center">ALBIN MV</h1>
-<h3 align="center">Passionate in data analytics</h3>
-<h3 align="left">Professional Summary:</h3> 
-<h5 align="left">As a machine learning and data analytics enthusiast, I'm passionate about leveraging data to drive insights and drive business decisions. With a strong foundation in programming languages such as Python, I'm excited to apply my skills to real-world problems and collaborate with like-minded individuals to drive innovation.</h5>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
